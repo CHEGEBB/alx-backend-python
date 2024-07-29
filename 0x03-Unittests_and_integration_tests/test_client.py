@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-This module contains the unit tests for the client module
-"""
+"""This module contains the unit tests for the client module"""
 
 from client import GithubOrgClient
 from fixtures import TEST_PAYLOAD
